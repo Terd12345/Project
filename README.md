@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weareromeo
+- 👋 Hi, I’m @Terd12345
 - 👀 I’m interested in Programming languages 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
